@@ -2,6 +2,8 @@
 
 **Version 1.0 — The Purple Standard**
 
+
+
 ---
 
 ## Wireframe Pages
